@@ -5,7 +5,7 @@ module.exports = {
   host: 'localhost',
   username: "postgres",
   password: 'kaua1630',
-  database: 'taslist',
+  database: 'tasklist',
   define: {
     timestamps: true,
     underscored: true,
